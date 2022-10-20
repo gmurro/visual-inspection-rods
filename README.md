@@ -1,4 +1,4 @@
-# 🔧 Visual Inspection of Motorcycle Connecting Rods 🔎
+# 🔧 Visual Inspection of Connecting Rods 🔎
 
 This repository contains a project realized as part of the *Project Work in Image Processing and Computer Vision* exam of the [Master's degree in Artificial Intelligence, University of Bologna](https://corsi.unibo.it/2cycle/artificial-intelligence).
 
@@ -51,9 +51,9 @@ Then, you can open the notebook `VisualInspectionMotorcycleConnectingRods.ipynb`
 
 ## **3. Results**
 The results of the project are reported in the following images.
-
 In order to have a better understanding of the results, you can refer to the report `report.pdf` and the presentation `presentation.pdf`.
 
+![Results](./report/assets/img/task1-results.png)
 ## Resources & Libraries
 
 - [OpenCV](https://opencv.org/)

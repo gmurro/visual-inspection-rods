@@ -6,6 +6,22 @@ __pycache__/
 # C extensions
 *.so
 
+# report latex files
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*fls
+report/*.bib
+report/*.bbl
+report/*.blg
+report/*.fdb_latexmk
+report/*.synctex.gz
+report/*.tex
+report/*.xml
+
+
+
 # Distribution / packaging
 .Python
 build/
