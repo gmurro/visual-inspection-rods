@@ -51,7 +51,7 @@ Then, you can open the notebook `VisualInspectionMotorcycleConnectingRods.ipynb`
 
 ## **3. Results**
 The results of the project are reported in the following images.
-In order to have a better understanding of the results, you can refer to the report `report.pdf` and the presentation `presentation.pdf`.
+In order to have a better understanding of the results, you can refer to the [`report`](./report/report.pdf) and the [`presentation`](./presentation.pptx).
 
 ![Results](./report/assets/img/task1-results.png)
 ## Resources & Libraries
